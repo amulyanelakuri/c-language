@@ -14,7 +14,7 @@ int main() {
 
     return 0;
 }
-#
+# char
 #include <stdio.h>
 #include <string.h>
 
